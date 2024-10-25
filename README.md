@@ -44,7 +44,7 @@ class Persegi extends BangunDatar { ... }
 ### Utama
 ![image](sst5/ss5.png)
 
-- Java secara otomatis memanggil implementasi method sesuai objek sebenarnya
+- Java secara otomatis memanggil implementasi method sesuai objek sebenarnya,
 Terjadi saat program dijalankan.
 ## Berikut Ouput nya:
 ![image](sst5/ss6.png)
